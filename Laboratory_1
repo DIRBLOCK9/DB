@@ -1,0 +1,84 @@
+using System;                                                                                                             // варіант 21
+
+namespace ConsoleApp1
+{
+    class Student
+    {
+        private string name;
+        private int age;
+        private int course;
+        private double rating;
+
+     
+        public Student(string name, int age, int course, double rating)
+        {
+            this.name = name;
+            this.age = age;
+            this.course = course;
+            this.rating = rating;
+        }
+
+      
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        public int Course
+        {
+            get { return course; }
+            set { course = value; }
+        }
+
+        public double Rating
+        {
+            get { return rating; }
+            set { rating = value; }
+        }
+
+    
+        public void EditStudent(string name, int age, double rating)
+        {
+            this.name = name;
+            this.age = age;
+            this.rating = rating;
+        }
+
+       
+        public void StudentRating()
+        {
+            Console.WriteLine($"Student {name} has a rating of {rating}");
+        }
+
+
+        public string GetRole()
+        {
+            return course <= 4 ? "Bachelor" : "Master";
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           
+            Student student = new Student("Stasik", 20, 3, 4.5);
+           
+            student.StudentRating();
+
+         
+            Console.WriteLine($"{student.Name} is a {student.GetRole()}.");
+
+            student.EditStudent("Ivan", 21, 4.8);
+
+            student.StudentRating();
+        }
+    }
+}
