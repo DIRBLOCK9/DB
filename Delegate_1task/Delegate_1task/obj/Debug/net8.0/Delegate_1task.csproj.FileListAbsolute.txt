@@ -1,0 +1,14 @@
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\bin\Debug\net8.0\Delegate_1task.exe
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\bin\Debug\net8.0\Delegate_1task.deps.json
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\bin\Debug\net8.0\Delegate_1task.runtimeconfig.json
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\bin\Debug\net8.0\Delegate_1task.dll
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\bin\Debug\net8.0\Delegate_1task.pdb
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.AssemblyInfoInputs.cache
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.AssemblyInfo.cs
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.dll
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\refint\Delegate_1task.dll
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.pdb
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\Delegate_1task.genruntimeconfig.cache
+C:\Users\turlo\source\repos\Delegate_1task\Delegate_1task\obj\Debug\net8.0\ref\Delegate_1task.dll

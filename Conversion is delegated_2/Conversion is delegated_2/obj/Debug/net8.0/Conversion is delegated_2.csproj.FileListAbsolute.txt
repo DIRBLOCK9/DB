@@ -1,0 +1,14 @@
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\bin\Debug\net8.0\Conversion is delegated_2.exe
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\bin\Debug\net8.0\Conversion is delegated_2.deps.json
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\bin\Debug\net8.0\Conversion is delegated_2.runtimeconfig.json
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\bin\Debug\net8.0\Conversion is delegated_2.dll
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\bin\Debug\net8.0\Conversion is delegated_2.pdb
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.AssemblyInfoInputs.cache
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.AssemblyInfo.cs
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.dll
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\refint\Conversion is delegated_2.dll
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.pdb
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\Conversion is delegated_2.genruntimeconfig.cache
+C:\Users\turlo\source\repos\Conversion is delegated_2\Conversion is delegated_2\obj\Debug\net8.0\ref\Conversion is delegated_2.dll
